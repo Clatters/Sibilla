@@ -19,6 +19,8 @@ Interferences are then run into a resonant low pass filter and then distributed 
 
 Please note that the above current consumption is highly influenced by the code Sibilla is running and refers to the Sibilla v.1.0 firmware.
 
+Visit the [Sibilla product page](https://clattersmachines.com/prodotto/sibilla/) and the [downloads](https://clattersmachines.com/users-manual/) section of Clatters website for more.
+
 ## Firmware development
 
 Sibilla is based on a Patch Submodule: a DSP platform for eurorack synthesizers created by Electrosmith. You can experiment with new codes and ideas and restore the Clatters official firmware whenever you want with a few clicks. 
