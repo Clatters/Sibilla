@@ -124,3 +124,22 @@ sigmund~
 vline~
 writesf~
 ```
+## Hardware
+
+Here are Sibilla's pots and jacks connections pins for your hardware hacking
+
+| Sibilla peripheral name  | Type |Patch submodule pin |
+| --- | --- | --- |
+| TRIG | Gate In | B10 |
+| V/OCT - CLIMB | Voltage Input | C5 |
+| RISE | Voltage Input | C4 |
+| FALL | Voltage Input | C3 |
+| UNDERWOOD | Voltage Input | C6 |
+| RESONANCE | Voltage Input | C2 |
+| BACKDROP | Voltage Input | C8 |
+| LFO | Voltage Input | C7 |
+| GRAINS | Voltage Input | C9 |
+| BOOST | Switch | B7 |
+| OUTPUT BUTTON | Switch | B8 |
+| OUTPUT x1 | Voltage Output | C10 |
+| OUTPUT x2 | Voltage Output | C1 |
