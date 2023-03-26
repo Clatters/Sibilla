@@ -18,3 +18,109 @@ Interferences are then run into a resonant low pass filter and then distributed 
 - +5V: 0mA;
 
 Please note that the above current consumption is highly influenced by the code Sibilla is running and refers to the Sibilla v.1.0 firmware.
+
+## Firmware development
+
+Sibilla is based on a Patch Submodule: a DSP platform for eurorack synthesizers created by Electrosmith. You can experiment with new codes and ideas and restore the Clatters official firmware whenever you want with a few clicks. 
+
+### Coding resources
+
+If you want to try writing your own code, the [DaisyWiki](https://github.com/Clatters/DaisyWiki) page is the best place to start.
+
+[libDaisy](https://github.com/Clatters/libDaisy) is a hardware abstraction library for the Daisy Audio Platform that provides easy access to things such as Audio, Controls, GPIO, MIDI, USB communication, and more.
+
+### Multimedia programming languages
+
+Sibilla can also be programmed with multimedia programming languages like [PureData](https://puredata.info/).
+
+[Pd2dsy](https://github.com/Clatters/pd2dsy) is a utility that allows you to convert your PureData patches into Daisy projects.
+
+We highly suggest you to give it a try, it's super fun and that's actually how the first Sibilla audio prototype was born!
+
+Please consider the fact that, at the moment, not all the PureData objects are supported by Heavy hvcc compiler. You can refer to this list of not-supported objects but do note this is non-exhaustive and may be not fully up to date. Please report any missing pd-vanilla objects.
+
+#### Message Objects
+
+```list
+append
+array
+bag
+choice
+clone
+cputime
+drawcurve
+drawnumber
+drawpolygon
+drawsymbol
+drawtext
+element
+expr
+filledcurve
+filledpolygon
+fudiformat
+fudiparse
+get
+getsize
+glist
+key
+keyname
+keyup
+list
+makefilename
+namecanvas
+netreceive
+netsend
+openpanel
+oscformat
+oscparse
+plot
+pointer
+realtime
+savepanel
+savestate
+scalar
+set
+setsize
+soundfiler
+stdout
+struct
+switch
+sysexin
+tabread4
+template
+text
+textfile
+v
+value
+```
+
+#### Signal Objects
+
+```list
+bang~
+block~
+bob~
+bonk~
+complex-mod~
+expr~
+fexpr~
+fft~
+framp~
+hilbert~
+ifft~
+log~
+loop~
+lrshift~
+pd~
+print~
+readsf~
+rev1~
+rev2~
+rev3~
+rfft~
+rifft~
+scope~
+sigmund~
+vline~
+writesf~
+```
