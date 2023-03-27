@@ -19,3 +19,8 @@ Follow the steps below to upload a new firmware to your Sibilla: </br>
 
 You'll get the message "Programming done!" once the uploading process is finished. Sibilla will now start to operate according to the uploaded firmware. Please note that not all its functions will be active with the USB power line.
 To fully test your new uploaded code, disconnect the USB from the module and plug it back into your eurorack case.
+
+### Change in power consumption
+
+Current draw specifications of Sibilla are highly dependant on the running firmwares. 
+Do note that Sibilla's power consumption data stated on the Technical specs section of its manual won't be true if a firmware different from the Sibilla_v.1.0 will be uploaded.
