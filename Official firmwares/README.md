@@ -1,9 +1,9 @@
 
-<h1> <b> Update your Sibilla </b> </h1>
+# Update your Sibilla
 
-Sibilla update walkthrough
+Sibilla update walkthrough.
 
-<h2> <b> Setup and programming </b> </h2>
+## Setup and programming
 
 Follow the steps below to upload a new firmware to your Sibilla: </br>
 - Turn off the power of your eurorack case;
