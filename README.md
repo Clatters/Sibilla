@@ -23,7 +23,9 @@ Visit the [Sibilla product page](https://clattersmachines.com/prodotto/sibilla/)
 
 ## Firmware development
 
-Sibilla is based on a Patch Submodule: a DSP platform for eurorack synthesizers created by Electrosmith. You can experiment with new codes and ideas and restore the Clatters official firmware whenever you want with a few clicks. 
+Sibilla is based on a Patch Submodule: a DSP platform for eurorack synthesizers created by Electrosmith. 
+It's based on a STM32 M7 processor at 480MHz, 96kHz / 24-bit audio and RAM for up to 10 minute audio buffers.
+You can experiment with new codes and ideas and restore the Clatters official firmware whenever you want with a few clicks. 
 
 ### Coding resources
 
