@@ -14,7 +14,7 @@ Follow the steps below to upload a new firmware to your Sibilla: </br>
 - Hold the BOOT button down on the back of the module, and then press and release the RESET button. Sibilla's center white LED should now be on;
 - On the Daisy Web Programmer page, click the Connect button on the top of the page and then click "DFU in FS mode";
 - Select "patch_sm" as desired platform;
-- Click "Choose File" and select the downloades .bin file;
+- Click "Choose File" and select the downloaded .bin file;
 - Click "Program" and wait for the progress bar to finish;
 
 You'll get the message "Programming done!" once the uploading process is finished. Sibilla will now start to operate according to the uploaded firmware. Please note that not all its functions will be active with the USB power line.
