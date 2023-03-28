@@ -135,7 +135,7 @@ writesf~
 
 Here are Sibilla's pots and jacks connections pins for your hardware hacking. Note that most of the Sibilla's peripherals are external-CV controllable: all jacks are connected to their respective potentiometers with summing amplifiers systems.
 
-| Sibilla peripheral name  | Type | Patch submodule pin |
+| Sibilla peripheral name  | Type | Patch Submodule pin |
 | --- | --- | --- |
 | L/M | Audio Output | B2 |
 | R | Audio Output | B1 |
