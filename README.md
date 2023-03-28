@@ -139,7 +139,7 @@ Here are Sibilla's pots and jacks connections pins for your hardware hacking. No
 | --- | --- | --- |
 | L/M | Audio Output | B2 |
 | R | Audio Output | B1 |
-| TRIG | Gate In | B10 |
+| TRIG<sup>*</sup> | Gate In | B10 |
 | V/OCT - CLIMB | Voltage Input | C5 |
 | RISE | Voltage Input | C4 |
 | FALL | Voltage Input | C3 |
@@ -152,3 +152,5 @@ Here are Sibilla's pots and jacks connections pins for your hardware hacking. No
 | OUTPUT BUTTON | Switch | B8 |
 | OUTPUT x1 | Voltage Output | C10 |
 | OUTPUT x2 | Voltage Output | C1 |
+
+_<sup>*</sup> Pin B10 is internally routed to a stable and protected 5V line through the jack switch in order to have a constant "Gate On" message for Sibilla's Drone Mode._
