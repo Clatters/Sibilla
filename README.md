@@ -1,7 +1,7 @@
 # Sibilla
 
 Sibilla is a 10HP digital stereo oscillator in the eurorack format based on a DSP platform that can easily be updated via USB without the need for external programs. 
-<img src="[https://your-image-url.type](https://github.com/Clatters/Sibilla/blob/main/Sibilla_1.1.jpg)" width="500" height="500">
+![Sibilla](Sibilla_1.1.jpg)
 During its development we had to take so many decision in terms of signal routing, compromise stuff to achieve more playability, and many times we were forced to choose only one great idea from the many cool possibility we had in mind. So, why not gradually releasing alternative firmwares to the original one? Why not seeing what other people are capable of?
 
 ## Story and introduction
