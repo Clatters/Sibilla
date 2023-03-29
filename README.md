@@ -40,7 +40,7 @@ If you want to try writing your own code, the [DaisyWiki](https://github.com/Cla
 
 Sibilla can also be programmed with multimedia programming languages like [PureData](https://puredata.info/) and [Max/MSP Gen~](https://cycling74.com/products/max).
 To do that, you'll need some utilities that allow you to convert your patches into Daisy projects: 
-[Pd2dsy](https://github.com/Clatters/pd2dsy) and []() will be your best friends.
+[Pd2dsy](https://github.com/Clatters/pd2dsy) and [Oopsy](https://github.com/Clatters/oopsy) will be your best friends.
 
 We highly suggest you to give it a try, it's super fun and that's actually how the first Sibilla audio prototype was born!
 
