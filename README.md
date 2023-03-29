@@ -38,9 +38,9 @@ If you want to try writing your own code, the [DaisyWiki](https://github.com/Cla
 
 ### Multimedia programming languages
 
-Sibilla can also be programmed with multimedia programming languages like [PureData](https://puredata.info/).
-
-[Pd2dsy](https://github.com/Clatters/pd2dsy) is a utility that allows you to convert your PureData patches into Daisy projects.
+Sibilla can also be programmed with multimedia programming languages like [PureData](https://puredata.info/) and [Max/MSP Gen~](https://cycling74.com/products/max).
+To do that, you'll need some utilities that allow you to convert your patches into Daisy projects: 
+[Pd2dsy](https://github.com/Clatters/pd2dsy) and []() will be your best friends.
 
 We highly suggest you to give it a try, it's super fun and that's actually how the first Sibilla audio prototype was born!
 
