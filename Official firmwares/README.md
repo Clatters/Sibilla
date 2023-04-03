@@ -25,4 +25,4 @@ To fully test your new uploaded code, disconnect the USB from the module and plu
 ### Change in power consumption
 
 Current draw specifications of Sibilla are highly dependant on the running firmwares. 
-Do note that Sibilla's power consumption data stated on the Technical specs section of its manual won't be true if a firmware different from the Sibilla_v.1.0 will be uploaded.
+Do note that [Sibilla's power consumption data](https://github.com/Clatters/Sibilla/blob/main/README.md#current-draw) stated on the Technical specs section of its manual won't be true if a firmware different from the Sibilla_v.1.0 will be uploaded.
