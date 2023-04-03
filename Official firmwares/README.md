@@ -17,6 +17,8 @@ Follow the steps below to upload a new firmware to your Sibilla: </br>
 - Click "Choose File" and select the downloaded .bin file;
 - Click "Program" and wait for the progress bar to finish;
 
+On windows, you may have to update the driver to WinUSB. To do this, you can download the free software, Zadig. Instructions for this can be found on the [DaisyWiki](https://github.com/electro-smith/DaisyWiki/wiki) in the Windows toolchain instructions page.
+
 You'll get the message "Programming done!" once the uploading process is finished. Sibilla will now start to operate according to the uploaded firmware. Please note that not all its functions will be active with the USB power line.
 To fully test your new uploaded code, disconnect the USB from the module and plug it back into your eurorack case.
 
