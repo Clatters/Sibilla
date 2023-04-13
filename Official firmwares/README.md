@@ -5,7 +5,7 @@ Sibilla update walkthrough.
 
 ## Setup and programming
 
-Follow the steps below to upload a new firmware to your Sibilla: </br>
+Follow the steps below to upload a new firmware to your Sibilla (a micro USB type B cable is required): </br>
 - Turn off the power of your eurorack case;
 - Remove the power connector on the back of Sibilla;
 - Download the desired firmware;
