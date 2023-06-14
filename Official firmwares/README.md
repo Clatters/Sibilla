@@ -5,7 +5,7 @@ Sibilla update walkthrough.
 
 **Remembr that Sibilla's power consumption is highly dependant on the running firmware. More info on that in the releases descriptions**
 
-You can download the latest firmware release [here](https://github.com/Clatters/Sibilla/releases/tag/v1.0)
+You can download the latest firmware release [here](https://github.com/Clatters/Sibilla/releases)
 
 ## Setup and programming
 
