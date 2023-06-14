@@ -3,9 +3,7 @@
 
 Sibilla update walkthrough.
 
-**Remembr that Sibilla's power consumption is highly dependant on the running firmware. More info on that in the releases descriptions**
-
-You can download the latest firmware release [here](https://github.com/Clatters/Sibilla/releases)
+You can download the latest firmware release [here](https://github.com/Clatters/Sibilla/releases).
 
 ## Setup and programming
 
@@ -30,3 +28,4 @@ To fully test your new uploaded code, disconnect the USB from the module and plu
 
 Current draw specifications of Sibilla are highly dependant on the running firmwares. 
 Do note that [Sibilla's power consumption data](https://github.com/Clatters/Sibilla/blob/main/README.md#current-draw) stated on the Technical specs section of its manual won't be true if a firmware different from the Sibilla_v.1.0 will be uploaded.
+More info on that in the releases descriptions.
