@@ -16,8 +16,8 @@ Follow the steps below to upload a new firmware to your Sibilla (a micro USB typ
 - Hold the `BOOT` button down on the back of the module, and then press and release the `RESET` button. Release the `BOOT` button;
 - On the Daisy Web Programmer page, click the Connect button on the top of the page and then click and select `DFU in FS mode` on the pop-up window;
 - Select `patch_sm` on the "--Platform--" drop down menu and leave the "--Example--" section blank;
-- Click "Choose File" and select the downloaded .bin file;
-- Click "Program" and wait for the progress bar to finish;
+- Click `Choose File` and select the downloaded .bin file;
+- Click `Program` and wait for the progress bar to finish;
 
 On windows, you may have to update the driver to WinUSB. To do this, you can download the free software, Zadig. Instructions for this can be found on the [DaisyWiki](https://github.com/electro-smith/DaisyWiki/wiki) in the Windows toolchain instructions page.
 
