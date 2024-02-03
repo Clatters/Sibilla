@@ -7,15 +7,15 @@ You can download the latest firmware release [here](https://github.com/Clatters/
 
 ## Setup and programming
 
-Follow the steps below to upload a new firmware to your Sibilla (a micro USB type B cable is required): </br>
+Follow the steps below to upload a new firmware to your Sibilla (a micro USB type B cable is required; be sure it's a data transfer cable): </br>
 - Turn off the power of your eurorack case;
 - Remove the power connector on the back of Sibilla;
 - Download the desired firmware;
 - Open the [Daisy Web Programmer](https://electro-smith.github.io/Programmer/) (do not leave this page and start browsing on other windows while uploading the firmware, the upload process will stop);
 - Connect Sibilla to your computer via USB;
-- Hold the BOOT button down on the back of the module, and then press and release the RESET button. Release the BOOT button;
-- On the Daisy Web Programmer page, click the Connect button on the top of the page and then click and select "DFU in FS mode" on the pop-up window;
-- Select "patch_sm" on the "--Platform--" drop down menu and leave the "--Example--" section blank;
+- Hold the BOOT button down on the back of the module, and then press and release the `RESET` button. Release the `BOOT` button;
+- On the Daisy Web Programmer page, click the Connect button on the top of the page and then click and select `DFU in FS mode` on the pop-up window;
+- Select `patch_sm` on the "--Platform--" drop down menu and leave the "--Example--" section blank;
 - Click "Choose File" and select the downloaded .bin file;
 - Click "Program" and wait for the progress bar to finish;
 
