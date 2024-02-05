@@ -7,7 +7,10 @@ You can download the latest firmware release [here](https://github.com/Clatters/
 
 ## Setup and programming
 
-Follow the steps below to upload a new firmware to your Sibilla (a micro USB type B cable is required; be sure it's a data transfer cable): </br>
+> [!IMPORTANT]
+> a micro USB type B cable is required; be sure it's a data transfer cable!
+
+Follow the steps below to upload a new firmware to your Sibilla: </br>
 - Turn off the power of your eurorack case;
 - Remove the power connector on the back of Sibilla;
 - Download the desired firmware;
