@@ -44,7 +44,8 @@ To do that, you'll need some utilities that allow you to convert your patches in
 
 We highly suggest you to give it a try, it's super fun and that's actually how the first Sibilla audio prototype was born!
 
-Please consider the fact that, at the moment, not all the PureData objects are supported by Heavy hvcc compiler. You can refer to this list of not-supported objects but do note this is non-exhaustive and may be not fully up to date. Please report any missing pd-vanilla objects.
+> [!IMPORTANT]
+> Please consider the fact that, at the moment, not all the PureData objects are supported by Heavy hvcc compiler. You can refer to this ***list of not-supported objects*** but do note this is non-exhaustive and may be not fully up to date. Please report any missing pd-vanilla objects.
 
 #### Message Objects
 
