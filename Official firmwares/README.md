@@ -10,10 +10,21 @@ You can download the latest firmware release [here](https://github.com/Clatters/
 > [!IMPORTANT]
 > a micro USB type B cable is required; be sure it's a data transfer cable!
 
-Follow the steps below to upload a new firmware to your Sibilla: </br>
-- Turn off the power of your eurorack case;
-- Remove the power connector on the back of Sibilla;
-- Download the desired firmware;
+Before performing any action on your module, remember to turn off the power of your eurorack case and remove the power connector on the back of Sibilla.
+
+### Sibilla Web Programmer
+
+The fastest way to update your Sibilla is to use the [Sibilla Web programmer](https://clattersmachines.com/sibilla-programmer/): an online dedicated environment in which no firmware download nor board configuration are needed. Just connect Sibilla to your laptop and follow the steps below:
+
+- Hold the `BOOT` button down on the back of the module,  press and release the `RESET` and then release `BOOT`;
+- Click `Connect` and select `DFU in FS mode` on the pop-up window;
+- Select the newest firmware available from the drop down menu;
+- Click `Program` and wait for the progress bar to finish;
+
+### Daisy Web Programmer
+
+You can also use the original Daisy Web Programmer:
+- Download the desired [firmware](https://github.com/Clatters/Sibilla/releases);
 - Open the [Daisy Web Programmer](https://electro-smith.github.io/Programmer/) (do not leave this page and start browsing on other windows while uploading the firmware, the upload process will stop);
 - Connect Sibilla to your computer via USB;
 - Hold the `BOOT` button down on the back of the module, and then press and release the `RESET` button. Release the `BOOT` button;
