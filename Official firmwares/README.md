@@ -6,7 +6,7 @@ Walkthrough to:
 
 - [Setup and general info](#Setup-and-general-info)
 - [Update your Sibilla](#Update-your-Sibilla)
-- [EXP-FX: expanding your Sibilla](#EXP-FX:-expanding-your-Sibilla)
+- [EXP-FX, expanding your Sibilla](#EXP-FX,-expanding-your-Sibilla)
 - [Changes in power consumption](#Changes-in-power-consumption)
 
 <br/><br/><br/>
@@ -57,7 +57,7 @@ You'll get the message "Programming done!" once the uploading process is finishe
 
 <br/><br/><br/>
 
-## EXP-FX: expanding your Sibilla
+## EXP-FX, expanding your Sibilla
 
 Sibilla needs to be reprogrammed in order to accept EXP-FX as an expander module: also in this case, you can either use our dedicated [Sibilla Web programmer](https://clattersmachines.com/sibilla-programmer/) or the [Daisy Web Programmer](https://electro-smith.github.io/Programmer/).
 
