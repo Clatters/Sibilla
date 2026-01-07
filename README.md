@@ -42,7 +42,7 @@ Sibilla can also be programmed with multimedia programming languages like [PureD
 To do that, you'll need some utilities that allow you to convert your patches into Daisy projects: 
 [Pd2dsy](https://github.com/Clatters/pd2dsy) and [Oopsy](https://github.com/Clatters/oopsy) will be your best friends.
 
-We highly suggest you to give it a try, it's super fun and that's actually how the first Sibilla audio prototype was born!
+We highly suggest you to give it a try, it's super fun and that's actually how the first Sibilla audio prototype was born! You can download the Sibilla's templates from [here](https://github.com/Clatters/Sibilla/tree/main/Development%20platform).
 
 > [!IMPORTANT]
 > Please consider the fact that, at the moment, not all the PureData objects are supported by Heavy hvcc compiler. You can refer to this ***list of not-supported objects*** but do note this is non-exhaustive and may be not fully up to date. Please report any missing pd-vanilla objects.
